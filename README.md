@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I’m Indu 👋
 
-<!--
-**indu-005/indu-005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a third-year BCA student from REVA University, Bengaluru, with a strong interest in software development and problem-solving.
 
-Here are some ideas to get you started:
+## 🔧 Skills
+- Front-End: HTML, CSS, JavaScript, React.js
+- Backend & Data: Python, SQL
+- Tools: GitHub, VS Code
+- Core CS: Computer Networks (TCP/IP), OOPs,Debugging
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Projects
+- **College Community Platform** – Responsive web application developed during a hackathon
+- **SQL Data Cleaning Workflow** – End-to-end SQL-based data cleaning on real-world datasets
+
+## 💼 Experience
+- Front-End Developer Intern  
+  - Debugged JavaScript issues
+  - Improved UI responsiveness
+  - Refactored React components for maintainability  
+  *(Internship code not publicly shared due to confidentiality)*
+
+## 🚀 Currently Learning
+- Data Structures & Algorithms (Basics)
+- SQL optimization
+- System fundamentals for industry roles
