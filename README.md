@@ -1,25 +1,52 @@
-# Hi, I’m Indu 👋
+# Hi, I'm Indu 👋
 
-I’m a third-year BCA student from REVA University, Bengaluru, with a strong interest in software development and problem-solving.
+SRE Trainee at Granicus | BCA Graduate, REVA University, Bengaluru
+Passionate about cloud infrastructure, system reliability, and automation.
 
 ## 🔧 Skills
-- Front-End: HTML, CSS, JavaScript, React.js
-- Backend & Data: Python, SQL
-- Tools: GitHub, VS Code
-- Core CS: Computer Networks (TCP/IP), OOPs,Debugging
+
+- **SRE & Monitoring:** Prometheus, Grafana, Telemetry Collection, SLIs/SLOs
+- **Cloud:** AWS (IAM, EC2, S3), Cloud Security, Least Privilege
+- **Scripting & Automation:** Python, Bash, SQL
+- **Infrastructure:** Docker, Linux CLI, WSL
+- **Networking:** TCP/IP, DNS, Firewalls, Traceroute
+- **Tools:** Git, GitHub, VS Code
 
 ## 📂 Projects
-- **College Community Platform** – Responsive web application developed during a hackathon
-- **SQL Data Cleaning Workflow** – End-to-end SQL-based data cleaning on real-world datasets
 
-## 💼 Experience
-- Front-End Developer Intern  
-  - Debugged JavaScript issues
-  - Improved UI responsiveness
-  - Refactored React components for maintainability  
-  *(Internship code not publicly shared due to confidentiality)*
+### Automated System Telemetry Agent — Python, psutil, Prometheus
+- Built a Python monitoring tool that collects real-time CPU and 
+  memory metrics and exposes them as Prometheus time-series endpoints
+- Designed threshold-based alerting to simulate early-warning 
+  system for resource saturation
+- Applied SRE principles to automate repetitive health checks
+
+### Cloud Identity & Access Architecture Lab — AWS IAM, EC2
+- Configured IAM users, groups, and custom policies enforcing 
+  Principle of Least Privilege
+- Practiced MFA setup and security group management across 
+  EC2 instances
+
+### SQL Data Cleaning & Automation — MySQL
+- Automated log data sanitation workflows using structured queries
+- Optimised indexes and relational constraints to reduce 
+  query latency
+
+## 🎓 Education
+
+**Bachelor of Computer Applications (BCA)** — CGPA: 9.52
+REVA University, Bengaluru | 2022–2026
+
+## 📜 Certifications
+
+- Google IT Networking & System Administration
+- Technical Support Fundamentals — Coursera
+- Generative AI with Python
 
 ## 🚀 Currently Learning
-- Data Structures & Algorithms (Basics)
-- SQL optimization
-- System fundamentals for industry roles
+
+- Docker — containerisation and compose stacks
+- Kubernetes — pod management and kubectl
+- Prometheus + Grafana — deep monitoring and PromQL
+- Python automation for SRE — log parsing, health checks, alerting
+- Incident management and SRE practices
